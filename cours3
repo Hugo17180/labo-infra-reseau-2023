@@ -1,0 +1,4 @@
+Pour le TP3 nous avons fait la mise en place de notre nas, 
+avec une liaison entre nos deux pc avec un cable RJ45, nous avons créer plusieurs carte réseau pour pouvoir communiquer entre nos deux PC, nous avons aussi fait des groupes et des utilisateurs, avec les droits pour pouvoir éxécuter et écrire dessus.
+Nous avons décidé de créer deux autres VMS qui vont permettre de faire la sauvegarde du NAS avec VEEAM BACKUP(windows serveur 2022) et un autre NAS pour faire du réplicat de notre premier NAS qui sert de DATA. Nous avons commencé à créer les deux VM mais il reste encore un peu de configuration,
+ainsi que faire les test pour voir que cela fonctionne bien.
